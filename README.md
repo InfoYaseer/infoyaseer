@@ -65,20 +65,6 @@
 
 ---
 
-## 🏆 **GitHub Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=InfoYaseer&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 🔥 **GitHub Streak**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedYaseer&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 **Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfoYaseer&theme=react-dark"/>
