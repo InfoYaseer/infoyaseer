@@ -27,6 +27,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart)
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=oracle)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
 ---
 
