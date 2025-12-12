@@ -66,7 +66,7 @@
 ---
 
 ### 🏆 GitHub Contributor Stats:
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=InfoYaseer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=InfoYaseer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
