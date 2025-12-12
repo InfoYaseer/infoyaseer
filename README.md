@@ -40,6 +40,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react)
 ![Flutter](https://img.shields.io/badge/FLUTTER-000?style=for-the-badge&logo=flutter)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+![MaterialUI](https://img.shields.io/badge/Material_UI-000?style=for-the-badge&logo=mui)
 
 ---
 
@@ -47,6 +51,10 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000?style=for-the-badge&logo=dotnet)
 
 ---
 
@@ -60,6 +68,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
+![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Oracle](https://img.shields.io/badge/Oracle_DB-000?style=for-the-badge&logo=oracle)
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb)
 
 ---
 
@@ -95,4 +107,12 @@
 ## 👀 Visitor Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=InfoYaseer&color=blueviolet&style=for-the-badge">
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thank you for visiting my GitHub profile!  
+  <br>
+  Your support means a lot 🤍
 </p>
