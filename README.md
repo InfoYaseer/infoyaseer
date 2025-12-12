@@ -65,6 +65,11 @@
 
 ---
 
+### 🏆 GitHub Contributor Stats:
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=InfoYaseer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 ## 📈 **Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfoYaseer&theme=react-dark"/>
