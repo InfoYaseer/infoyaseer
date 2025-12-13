@@ -76,7 +76,7 @@
 ---
 
 ## 📊 **GitHub Stats**
-<p align="center">
+<p>
   <img height="180" src="https://stats.hyo.dev/api/github-stats-advanced?login=InfoYaseer"/>
 </p>
 
