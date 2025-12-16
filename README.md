@@ -104,10 +104,6 @@
 
 ---
 
-## 👀 Visitor Count
-
-![Visitors](https://visitorbadge.io/api/visitors?path=InfoYaseer&label=Visitors&countColor=%230e75b6)
-
 <p align="center">
   ⭐ Thank you for visiting my GitHub profile!  
   <br>
