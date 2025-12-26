@@ -104,7 +104,9 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=infoyaseer&abbreviated=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=infoyaseer&color=brightgreen&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
