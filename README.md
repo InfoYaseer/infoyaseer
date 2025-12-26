@@ -104,6 +104,10 @@
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=infoyaseer&abbreviated=true)
+
+---
+
 <p align="center">
   ⭐ Thank you for visiting my GitHub profile!  
   <br>
