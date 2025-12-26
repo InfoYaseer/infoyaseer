@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://wa.me/94767656647" target="_blank">
-    <img src="https://img.shields.io/badge/HELP%20ME-FFD700?style=for-the-badge">
-  </a>
+  <img src="https://img.shields.io/badge/CONTACT%20ME-FFD700?style=for-the-badge" alt="Contact me on WhatsApp">
+</a>
 </p>
 
 ---
