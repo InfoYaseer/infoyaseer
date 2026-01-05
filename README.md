@@ -75,6 +75,34 @@
 
 ---
 
+---
+
+## 🎨 **Design Skills**
+
+### 🖌️ Design Tools
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-000?style=for-the-badge&logo=adobexd)
+![Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=adobeillustrator)
+![After Effects](https://img.shields.io/badge/After_Effects-000?style=for-the-badge&logo=adobeaftereffects)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-000?style=for-the-badge&logo=adobepremierepro)
+![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva)
+![Blender](https://img.shields.io/badge/Blender-000?style=for-the-badge&logo=blender)
+
+---
+
+### 🎯 Design Expertise
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-000?style=for-the-badge&logo=figma)
+![Graphic Design](https://img.shields.io/badge/Graphic_Design-000?style=for-the-badge&logo=adobe)
+![Web Design](https://img.shields.io/badge/Web_Design-000?style=for-the-badge&logo=css3)
+![Motion Graphics](https://img.shields.io/badge/Motion_Graphics-000?style=for-the-badge&logo=adobeaftereffects)
+![Video Editing](https://img.shields.io/badge/Video_Editing-000?style=for-the-badge&logo=adobepremierepro)
+![3D Design](https://img.shields.io/badge/3D_Design-000?style=for-the-badge&logo=blender)
+![Brand Identity](https://img.shields.io/badge/Brand_Identity-000?style=for-the-badge&logo=adobeillustrator)
+![Prototyping](https://img.shields.io/badge/Prototyping-000?style=for-the-badge&logo=invision)
+
+---
+
 ## 📊 **GitHub Stats**
 <p>
   <img height="180" src="https://stats.hyo.dev/api/github-stats-advanced?login=InfoYaseer"/>
