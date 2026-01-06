@@ -75,9 +75,6 @@
 
 ---
 
-
-## 🎨 **Design Skills**
-
 ### 🖌️ Design Tools
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-000?style=for-the-badge&logo=adobexd)
