@@ -106,6 +106,12 @@
 
 ---
 
+## 💡 **GitHub Contributor Stats**
+<!-- GitHub Stats -->
+[![InfoYaseer’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=InfoYaseer&show_icons=true&theme=radical)](https://github.com/InfoYaseer)
+
+---
+
 ## 📈 **Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfoYaseer&theme=react-dark"/>
