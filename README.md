@@ -107,7 +107,18 @@
 ---
 
 ### 🏆 GitHub Contributor Stats:
-[![InfoYaseer's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfoYaseer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contributors (image)
+![Contributors](https://contrib.rocks/image?repo=InfoYaseer/infoyaseer)
+
+### Contributors list
+<a href="https://github.com/InfoYaseer/REPO_NAME/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=InfoYaseer/infoyaseer" />
+</a>
+
+### Activity & contributions
+- https://github.com/InfoYaseer/infoyaseer/graphs/contributors
+- https://github.com/InfoYaseer/infoyaseer/pulse
 ---
 
 ## 📈 **Activity Graph**
