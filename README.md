@@ -107,7 +107,7 @@
 ---
 
 ### 🏆 GitHub Contributor Stats:
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=InfoYaseer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![Contributor Stars](https://img.shields.io/github/stars/InfoYaseer/InfoYaseer?style=social)](https://github.com/InfoYaseer/InfoYaseer/stargazers)
 
 ---
 
