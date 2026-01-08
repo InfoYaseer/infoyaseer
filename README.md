@@ -107,8 +107,7 @@
 ---
 
 ### 🏆 GitHub Contributor Stats:
-[![Contributor Stars](https://img.shields.io/github/stars/InfoYaseer/InfoYaseer?style=social)](https://github.com/InfoYaseer/InfoYaseer/stargazers)
-
+[![InfoYaseer's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfoYaseer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📈 **Activity Graph**
