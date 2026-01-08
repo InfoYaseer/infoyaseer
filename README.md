@@ -106,11 +106,6 @@
 
 ---
 
-### Activity & contributions
-- https://github.com/InfoYaseer/infoyaseer/graphs/contributors
-- https://github.com/InfoYaseer/infoyaseer/pulse
----
-
 ## 📈 **Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfoYaseer&theme=react-dark"/>
