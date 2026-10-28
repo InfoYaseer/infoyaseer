@@ -163,12 +163,13 @@ Bringing stories to life through movement, video, and experimental visual design
 <br/><br/>
 
 <!-- GitHub Contribution Activity -->
+<!-- GitHub Contribution Activity -->
 <h2 align="center">📈 GitHub Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=InfoYaseer&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
-    alt="Mohamed Yaseer's GitHub Contribution Activity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InfoYaseer&theme=github_dark"
+    alt="Mohamed Yaseer's GitHub Contribution Graph"
     width="100%"
   />
 </p>
