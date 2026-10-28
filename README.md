@@ -162,10 +162,16 @@ Bringing stories to life through movement, video, and experimental visual design
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=InfoYaseer&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" width="100%" alt="GitHub contribution activity" />
+<!-- GitHub Contribution Activity -->
+<h2 align="center">📈 GitHub Contribution Activity</h2>
 
-<sub>Stats reflect public GitHub data and depend on third-party services being available.</sub>
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=InfoYaseer&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
+    alt="Mohamed Yaseer's GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
 </div>
 
 ---
