@@ -159,6 +159,12 @@ Bringing stories to life through movement, video, and experimental visual design
 
 <br>
 
+<!-- ===================================================== -->
+<!-- 04 / GITHUB PULSE                                     -->
+<!-- ===================================================== -->
+
+<br>
+
 ## 04 / GITHUB PULSE
 
 <p align="center">
@@ -168,20 +174,23 @@ Bringing stories to life through movement, video, and experimental visual design
   />
 </p>
 
-
-<br>
-
-<h3 align="center">📈 Contribution Overview</h3>
+<h3 align="center">⚡ Development in Numbers</h3>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InfoYaseer&theme=github_dark&animation=draw&title_color=00D9FF&chart_color=00D9FF"
-    width="100%"
-    alt="Mohamed Yaseer GitHub Contribution Activity"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InfoYaseer&theme=github_dark&animation=rise&title_color=00D9FF&icon_color=00D9FF"
+    width="49%"
+    alt="Mohamed Yaseer GitHub Statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InfoYaseer&theme=github_dark&animation=draw&title_color=00D9FF"
+    width="49%"
+    alt="Mohamed Yaseer Most Used Languages"
   />
 </p>
 
 <br>
+
 
 <h3 align="center">💻 Languages by Commits</h3>
 
@@ -200,12 +209,11 @@ Bringing stories to life through movement, video, and experimental visual design
 
 <br>
 
-<p align="center">
-  <sub>
-    ⚡ Building consistently • Learning continuously • Creating with purpose
-  </sub>
-</p>
 
+
+<br>
+
+---
 <br>
 
 ---
