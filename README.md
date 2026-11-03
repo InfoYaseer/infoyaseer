@@ -153,16 +153,76 @@ Bringing stories to life through movement, video, and experimental visual design
 
 ---
 
+<!-- ===================================================== -->
+<!-- 04 / GITHUB PULSE                                     -->
+<!-- ===================================================== -->
+
+<br>
+
 ## 04 / GITHUB PULSE
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/GITHUB-ANALYTICS-00D9FF?style=for-the-badge&logo=github&logoColor=000000"
+    alt="GitHub Analytics"
+  />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=InfoYaseer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&rank_icon=github" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoYaseer&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="170" alt="Top languages" />
+<h3 align="center">⚡ Development in Numbers</h3>
 
-<br/><br/>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InfoYaseer&theme=github_dark&animation=rise&title_color=00D9FF&icon_color=00D9FF"
+    width="49%"
+    alt="Mohamed Yaseer GitHub Statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InfoYaseer&theme=github_dark&animation=draw&title_color=00D9FF"
+    width="49%"
+    alt="Mohamed Yaseer Most Used Languages"
+  />
+</p>
 
-<!-- GitHub Contribution Activity -->
+<br>
+
+<h3 align="center">📈 Contribution Overview</h3>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InfoYaseer&theme=github_dark&animation=draw&title_color=00D9FF&chart_color=00D9FF"
+    width="100%"
+    alt="Mohamed Yaseer GitHub Contribution Activity"
+  />
+</p>
+
+<br>
+
+<h3 align="center">💻 Languages by Commits</h3>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InfoYaseer&theme=github_dark&animation=rise&title_color=00D9FF"
+    width="49%"
+    alt="Most Used Commit Languages"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=InfoYaseer&theme=github_dark&utcOffset=5.5&animation=rise&title_color=00D9FF"
+    width="49%"
+    alt="GitHub Coding Activity"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <sub>
+    ⚡ Building consistently • Learning continuously • Creating with purpose
+  </sub>
+</p>
+
+<br>
+
+---
 <!-- GitHub Contribution Activity -->
 <h2 align="center">📈 GitHub Contribution Activity</h2>
 
